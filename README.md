@@ -8,5 +8,6 @@ And here is the summary of day 12 archives:
 
 |  #  | Name                                                                                                                     | Link                                                                           |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | Number Guessing                            | [File](https://github.com/DexxterGWM/012.To.100-Python/tree/main/01.%20Solution%20Walkthrough)               |
-| 02  | Quiz                             | [File](https://github.com/DexxterGWM/012.To.100-Python/tree/main/Quiz)               |
+| 01  | Rqmts.                            | [File](https://github.com/DexxterGWM/012.To.100-Python/tree/main/01.%20Number%20Guessing%20Game)               |
+| 02  | Number Guessing                            | [File](https://github.com/DexxterGWM/012.To.100-Python/tree/main/02.%20Solution%20Walkthrough)               |
+| 03  | Quiz                             | [File](https://github.com/DexxterGWM/012.To.100-Python/tree/main/Quiz)               |
